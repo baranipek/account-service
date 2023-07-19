@@ -100,7 +100,7 @@ Response
 
 
 - ### account.query
-This app manages account queries , lets install and run the app
+This app manages account queries , lets install and run the app, (use the accound id that is returned from open bank account response) and use the same id in following requests 
 
  ```
  mvn clean install
