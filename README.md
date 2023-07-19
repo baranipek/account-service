@@ -17,6 +17,7 @@ It should be possible to receive a list of all bank accounts in the red, i.e., w
 
 ## Prerequisites
 
+
 - [`Java 17`](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - [`Docker`](https://www.docker.com/)
 - [`Docker-Compose`](https://docs.docker.com/compose/install/)
@@ -26,8 +27,8 @@ It should be possible to receive a list of all bank accounts in the red, i.e., w
 
 Event Sourcing and CQRS is used in application 
 
-![2](https://github.com/baranipek/bank-account-service/assets/8599551/579d3f78-513a-44b6-958f-d658bda6d1bd)
-![1](https://github.com/baranipek/bank-account-service/assets/8599551/47ab1481-fbb0-4ba3-b291-e000dc3eaac2)
+![2](https://github.com/baranipek/account-service/assets/8599551/c80d25b4-378e-4c61-87b8-bf7efe26651c)
+![1](https://github.com/baranipek/account-service/assets/8599551/de443fed-4aec-497d-9702-27bad8c1aac8)
 
 
 ## Start Environment
